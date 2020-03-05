@@ -3,11 +3,11 @@ Jest to prosty projekt kultowej gry "W¹¿".
 
 Menu g³ówne: 
 
-![](https://github.com/Saiter711/Snake_Game/blob/master/extra/main_picture.PNG
+![](https://github.com/Saiter711/Snake_Game/blob/master/extra/main_picture.PNG)
 
 Wygl¹d gry:
 
-![](https://github.com/Saiter711/Snake_Game/blob/master/extra/game.PNG
+![](https://github.com/Saiter711/Snake_Game/blob/master/extra/game.PNG)
 
 ## Na czym polega gra?
 
