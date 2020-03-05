@@ -1,17 +1,17 @@
 # Projekt Snake
-Jest to prosty projekt kultowej gry "W¹¿".
+Jest to prosty projekt kultowej gry "Wa¿".
 
 Menu g³ówne: 
 
 ![](https://github.com/Saiter711/Snake_Game/blob/master/extra/main_picture.PNG)
 
-Wygl¹d gry:
+Wyglad gry:
 
 ![](https://github.com/Saiter711/Snake_Game/blob/master/extra/game.PNG)
 
 ## Na czym polega gra?
 
-Jest to prosta gra, która polega na zbieraniu owoców kontroluj¹c wê¿a. W¹¿ wyd³u¿a siê za ka¿dym razem o jeden kawa³ek, kiedy zje on owoc.
+Jest to prosta gra, która polega na zbieraniu owoców kontroluj¹c wê¿a. Wa¿ wyd³u¿a siê za ka¿dym razem o jeden kawa³ek, kiedy zje on owoc.
 
 ### Sterowanie
 
